@@ -1,0 +1,41 @@
+BG = "#111413"
+TOPBAR = "#151917"
+SURFACE = "#1a1f1d"
+SURFACE_2 = "#202723"
+PANEL = "#1a222d"
+PANEL_2 = "#141b24"
+BORDER = "#2d3a4d"
+LINE = "#3b4841"
+TEXT = "#eef5ef"
+TEXT_2 = "#e8eef5"
+MUTED = "#a5b4aa"
+MUTED_2 = "#8b9cb3"
+ACCENT = "#45d6b4"
+ACCENT_2 = "#ff7f66"
+ACCENT_3 = "#f0c95a"
+BLUE = "#4da3ff"
+BLUE_2 = "#6ecbff"
+GOOD = "#63e6be"
+WARN = "#ffd166"
+DANGER = "#ff6b6b"
+NODE = "#7ec8ff"
+WIRE = "#d5e2f2"
+GRAPH_BG = "#0f1419"
+SHADOW = "#000000"
+RC_GREEN = "#9ad94f"
+
+FONT = "Malgun Gothic"
+MONO = "Consolas"
+
+PAD = 12
+RADIUS = 8
+
+PAGE_PAD_X = 18
+PAGE_PAD_Y = 10
+CARD_GAP = 10
+CARD_PAD = 8
+GRAPH_HEIGHT = 295
+GRAPH_HEIGHT_MAXWELL = 300
+LOADLINE_HEIGHT = 320
+TOPBAR_HEIGHT = 64
+TOPBAR_COMPACT_HEIGHT = 44

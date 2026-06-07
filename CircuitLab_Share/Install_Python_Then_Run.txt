@@ -1,0 +1,12 @@
+1. Install Python 3 from:
+   https://www.python.org/downloads/
+
+2. In the installer, check:
+   Add python.exe to PATH
+
+3. After installation, double-click:
+   CircuitLab_Run.cmd
+
+If only the word "Python" appears, Windows is using the Microsoft Store app alias.
+Turn off:
+Settings > Apps > Advanced app settings > App execution aliases > python.exe / python3.exe
